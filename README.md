@@ -15,5 +15,6 @@ When it comes to web development, an age calculator made with **CSS and JavaScri
   With **JavaScript**, you can easily calculate the difference between the current date and the user’s birth date. JavaScript’s `Date` object makes it easy to work with dates and perform the necessary arithmetic for an accurate output.
 
 [Read More And Download Code](https://knowledgefactor.in/programing/age-calculator-free-html-code-with-css/)
+
 [Live Preview](https://agecalculator.knowledgefactor.in/)
 
